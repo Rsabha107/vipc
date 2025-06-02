@@ -1,0 +1,10 @@
+{
+    "background_color": "var(--primart)",
+    "description": "A simple extension to enhance your browsing experience.",
+    "icons": [
+        { "src": "assets/images/app-logo/pwa150x150.png", "sizes": "150x150", "type": "image/png" }
+    ],
+    "name": "Simple Browser Extension",
+    "short_name": "SimpleExt",
+    "start_url": "index.html"
+}
